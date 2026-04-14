@@ -1,6 +1,8 @@
 # ahreg
 Regression Analysis with Average Hazard Use ahreg (survAH) With (In) R Software
 
+https://www.youtube.com/watch?v=BfYEStVdq-c
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
